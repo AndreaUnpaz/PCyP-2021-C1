@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AREAyPERIMETRO
+namespace AreaPerimetro
 {
     class Program
     {
@@ -48,6 +48,5 @@ namespace AREAyPERIMETRO
             }
             while (si == "0");
         }
-
     }
 }

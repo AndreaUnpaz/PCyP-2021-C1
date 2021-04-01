@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("AREAyPERIMETRO")]
+[assembly: AssemblyTitle("AreaPerimetro")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("AREAyPERIMETRO")]
+[assembly: AssemblyProduct("AreaPerimetro")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("c8e9401c-476a-4a3e-8101-16e78a66ff0b")]
+[assembly: Guid("e866d238-4b5e-4700-96bd-036e124616bd")]
 
 // Version information for an assembly consists of the following four values:
 //
