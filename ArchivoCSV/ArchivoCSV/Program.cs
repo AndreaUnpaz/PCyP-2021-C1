@@ -16,8 +16,8 @@ namespace ArchivoCSV
             foreach (var linea in lineas)
             {
                 var valores = linea.Split(',');
-                ArchivoVial iteam = new ArchivoVial(valores[0], valores[1], valores[2], valores[3], valores[4]);
-                iteam.imprimir();
+                ArchivoVial items = new ArchivoVial(valores[0], valores[1], valores[2], valores[3], valores[4]);
+                items.imprimir();
                 Console.ReadLine();
 
             }
